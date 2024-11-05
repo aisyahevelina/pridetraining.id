@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for PRIDETRAINING.ID	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pride Training &#38; Language Center</description>
-	<lastBuildDate>Wed, 18 Sep 2024 07:14:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Nov 2024 04:57:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
